@@ -1,4 +1,4 @@
-![viewfinal](git_pic_store.png)
+![viewfinal](veganShop-pic.png)
 
 - [Demo Project](https://vegan-shop-cyan.vercel.app/)
 
